@@ -132,14 +132,6 @@ When I'm not experimenting with code, you'll probably find me:
 
 ---
 
-## 📊 GitHub
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=psorigins10\&show_icons=true\&hide_border=true\&theme=dark)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=psorigins10\&layout=compact\&hide_border=true\&theme=dark)
-
----
-
 ## 🌐 Connect
 
 [![Instagram](https://img.shields.io/badge/Instagram-111111?style=flat-square\&logo=instagram\&logoColor=white)](https://instagram.com/ps_origins10)
