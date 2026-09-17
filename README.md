@@ -27,9 +27,10 @@ I'm curious by nature, love experimenting with technology, and enjoy solving pro
 
 ### Languages
 
-![C](https://img.shields.io/badge/C-111111?style=flat-square\&logo=c\&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-111111?style=flat-square\&logo=c%2B%2B\&logoColor=white)
-![Python](https://img.shields.io/badge/Python-111111?style=flat-square\&logo=python\&logoColor=white)
+![C](https://img.shields.io/badge/C-111111?style=flat-square&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-111111?style=flat-square&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-111111?style=flat-square&logo=python&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-111111?style=flat-square&logo=dart&logoColor=white)
 
 ### AI / Machine Learning
 
