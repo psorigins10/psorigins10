@@ -1,6 +1,6 @@
 # Hey, I'm Parav Sharma 👋
 
-### `PSOrigins10` · BCA Student · Builder · Experimenter
+### `PSOrigins` · BCA Student · Builder · Experimenter
 
 I'm a **BCA 5th-semester student from Himachal Pradesh, India**, interested in understanding how things work under the hood and turning ideas into working systems.
 
