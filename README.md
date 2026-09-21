@@ -2,9 +2,7 @@
 
 ### `PSOrigins` · BCA Student · Builder · Experimenter
 
-I'm a **BCA 5th-semester student from Himachal Pradesh, India**, interested in understanding how things work under the hood and turning ideas into working systems.
-
-I'm curious by nature, love experimenting with technology, and enjoy solving problems that don't always have straightforward answers.
+I'm a **BCA student from Himachal Pradesh, India**, interested in low-level systems, AI, and building things from scratch.
 
 > **"Accept the pain or stay the same."**
 
@@ -13,12 +11,10 @@ I'm curious by nature, love experimenting with technology, and enjoy solving pro
 ## 🧠 About Me
 
 * 🎓 BCA — 5th Semester
-* 🇮🇳 Himachal Pradesh, India
-* 💻 Beginner → Intermediate developer
-* 🤖 Exploring Artificial Intelligence
-* ⚙️ Learning Operating System & Kernel Development
-* 🚀 Interested in Space Technology & Robotics
-* 🧪 I like experimenting with ideas and building things from scratch
+* 💻 Beginner → Intermediate Developer
+* 🤖 Exploring **Artificial Intelligence**
+* ⚙️ Learning **Operating Systems & Kernel Development**
+* 🚀 Interested in **Space Technology & Robotics**
 * 🔭 Currently building **Origin OS**
 
 ---
@@ -27,12 +23,13 @@ I'm curious by nature, love experimenting with technology, and enjoy solving pro
 
 ### Languages
 
-![C](https://img.shields.io/badge/C-111111?style=flat-square&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-111111?style=flat-square&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/Python-111111?style=flat-square&logo=python&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-111111?style=flat-square&logo=dart&logoColor=white)
+![C](https://img.shields.io/badge/C-111111?style=flat-square\&logo=c\&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-111111?style=flat-square\&logo=c%2B%2B\&logoColor=white)
+![Python](https://img.shields.io/badge/Python-111111?style=flat-square\&logo=python\&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-111111?style=flat-square\&logo=dart\&logoColor=white)
+![Assembly](https://img.shields.io/badge/x86--64%20Assembly-111111?style=flat-square\&logo=assemblyscript\&logoColor=white)
 
-### AI / Machine Learning
+### AI / ML
 
 ![PyTorch](https://img.shields.io/badge/PyTorch-111111?style=flat-square\&logo=pytorch\&logoColor=white)
 ![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-111111?style=flat-square\&logo=scikit-learn\&logoColor=white)
@@ -43,93 +40,51 @@ I'm curious by nature, love experimenting with technology, and enjoy solving pro
 ![Flutter](https://img.shields.io/badge/Flutter-111111?style=flat-square\&logo=flutter\&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-111111?style=flat-square\&logo=linux\&logoColor=white)
 
-### Exploring
-
-`OS Development` · `Kernel Development` · `Robotics` · `Artificial Intelligence`
+`OS Development` · `Kernel Development` · `Computer Architecture` · `Robotics`
 
 ---
 
 ## 🚀 Projects
 
-### 💰 Money Tracker
-
-A personal money-tracking application built entirely with **Flutter**.
-
-> Focus: mobile development, UI, and practical application building.
-
----
-
-### 🔢 End-to-End Number Classifier
-
-An end-to-end digit classification system using:
-
-**PyTorch MLP → FastAPI → Flutter**
-
-The project connects a machine-learning model with a backend API and a Flutter frontend, giving me experience across the entire application pipeline.
-
----
-
 ### ⚙️ Origin OS
 
 **Currently in development**
 
-A research-oriented operating system/kernel project built from scratch.
+A research-oriented OS/kernel project built from scratch to explore **operating systems, computer architecture, low-level programming, and AI + OS integration**.
 
-The goal is to explore operating-system fundamentals, low-level programming, computer architecture, and eventually investigate how **Artificial Intelligence can interact with or become part of an OS environment**.
+### 🔢 End-to-End Number Classifier
 
-> `Building from the ground up.`
+**PyTorch MLP → FastAPI → Flutter**
+
+A full-stack digit classification system connecting an ML model, backend API, and Flutter frontend.
+
+### 💰 Money Tracker
+
+A personal finance tracking application built with **Flutter**, focused on practical mobile development and UI.
 
 ---
 
 ## 🔬 Currently Learning
 
-```text
-Operating Systems
-       ↓
-Kernel Development
-       ↓
-Computer Architecture
-       ↓
-Artificial Intelligence
-       ↓
-AI + OS
-```
+`Operating Systems` → `Kernel Development` → `x86-64 Assembly` → `Computer Architecture` → `Artificial Intelligence`
 
-I'm particularly interested in the intersection between **low-level systems and AI**.
+I'm especially interested in the intersection of **low-level systems and AI**.
 
 ---
 
 ## 🎯 Interests
 
-* 🤖 Artificial Intelligence
-* ⚙️ Operating Systems
-* 🧠 Kernel Development
-* 🔧 Backend Engineering
-* 🚀 Space Technology
-* 🤖 Robotics
-* 🖥️ Low-Level Programming
-* 🎬 VFX & 3D
+🤖 Artificial Intelligence · ⚙️ Operating Systems · 🧠 Kernel Development · 🔧 Backend Engineering · 🚀 Space Technology · 🤖 Robotics · 🖥️ Low-Level Programming · 🎬 VFX & 3D
 
 ---
 
 ## 🎮 Outside Code
 
-When I'm not experimenting with code, you'll probably find me:
+🎬 VFX / 3D · ✈️ Travelling · 🏃 Running · 🏊 Swimming... *trying* 😂 · ⚽ Football · 🎧 Phonk & Rap
 
-* 🎬 Exploring VFX / 3D
-* ✈️ Travelling
-* 🏃 Running
-* 🏊 Trying to learn swimming... emphasis on **trying** 😂
-* ⚽ Watching/playing football
-* 🎧 Listening to phonk & rap
+**Games:** `PUBG` · `CS2` · `Black Myth: Wukong`
 
-### 🎮 Games
-
-`PUBG` · `CS2` · `Black Myth: Wukong`
-
-### 🎬 Movies
-
-`Interstellar` · `The Martian` · `Jurassic Park` · `Godzilla`
+**Movies:** `Interstellar` · `The Martian` · `Jurassic Park` · `Godzilla`
 
 ---
 
