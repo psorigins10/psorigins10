@@ -1,90 +1,62 @@
 # Hey, I'm Parav Sharma 👋
 
-### `PSOrigins` · BCA Student · Builder · Experimenter
+**PSOrigins · BCA Student · Builder · Experimenter**
 
-I'm a **BCA student from Himachal Pradesh, India**, interested in low-level systems, AI, and building things from scratch.
+BCA student from Himachal Pradesh, India, interested in **low-level systems, AI, and building things from scratch.**
 
 > **"Accept the pain or stay the same."**
 
 ---
 
-## 🧠 About Me
+## 🛠️ Tech
 
-* 🎓 BCA — 5th Semester
-* 💻 Beginner → Intermediate Developer
-* 🤖 Exploring **Artificial Intelligence**
-* ⚙️ Learning **Operating Systems & Kernel Development**
-* 🚀 Interested in **Space Technology & Robotics**
-* 🔭 Currently building **Origin OS**
-
----
-
-## 🛠️ Tech Stack
-
-### Languages
+**Languages**
 
 ![C](https://img.shields.io/badge/C-111111?style=flat-square\&logo=c\&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-111111?style=flat-square\&logo=c%2B%2B\&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-111111?style=flat-square\&logo=python\&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-111111?style=flat-square\&logo=dart\&logoColor=white)
-![Assembly](https://img.shields.io/badge/x86--64%20Assembly-111111?style=flat-square\&logo=assemblyscript\&logoColor=white)
+![Assembly](https://img.shields.io/badge/x86--64_Assembly-111111?style=flat-square\&logo=assemblyscript\&logoColor=white)
 
-### AI / ML
+**AI / Development**
 
 ![PyTorch](https://img.shields.io/badge/PyTorch-111111?style=flat-square\&logo=pytorch\&logoColor=white)
 ![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-111111?style=flat-square\&logo=scikit-learn\&logoColor=white)
-
-### Development
-
 ![FastAPI](https://img.shields.io/badge/FastAPI-111111?style=flat-square\&logo=fastapi\&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-111111?style=flat-square\&logo=flutter\&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-111111?style=flat-square\&logo=linux\&logoColor=white)
 
-`OS Development` · `Kernel Development` · `Computer Architecture` · `Robotics`
+**Systems**
+
+`Operating Systems` · `Kernel Development` · `Computer Architecture` · `x86-64`
 
 ---
 
 ## 🚀 Projects
 
-### ⚙️ Origin OS
+### Origin OS
 
-**Currently in development**
+Research-oriented OS/kernel project built from scratch, exploring **operating systems, computer architecture, low-level programming, and AI + OS integration.**
 
-A research-oriented OS/kernel project built from scratch to explore **operating systems, computer architecture, low-level programming, and AI + OS integration**.
+### End-to-End Number Classifier
 
-### 🔢 End-to-End Number Classifier
+**PyTorch → FastAPI → Flutter**
 
-**PyTorch MLP → FastAPI → Flutter**
+Digit classification system connecting an ML model, backend API, and mobile frontend.
 
-A full-stack digit classification system connecting an ML model, backend API, and Flutter frontend.
+### Money Tracker
 
-### 💰 Money Tracker
-
-A personal finance tracking application built with **Flutter**, focused on practical mobile development and UI.
+Personal finance tracking application built with **Flutter**.
 
 ---
 
-## 🔬 Currently Learning
+## 🎨 Hobbies
 
-`Operating Systems` → `Kernel Development` → `x86-64 Assembly` → `Computer Architecture` → `Artificial Intelligence`
+**3D Art**
 
-I'm especially interested in the intersection of **low-level systems and AI**.
+`Blender` · `Houdini`
 
----
-
-## 🎯 Interests
-
-🤖 Artificial Intelligence · ⚙️ Operating Systems · 🧠 Kernel Development · 🔧 Backend Engineering · 🚀 Space Technology · 🤖 Robotics · 🖥️ Low-Level Programming · 🎬 VFX & 3D
-
----
-
-## 🎮 Outside Code
-
-🎬 VFX / 3D · ✈️ Travelling · 🏃 Running · 🏊 Swimming... *trying* 😂 · ⚽ Football · 🎧 Phonk & Rap
-
-**Games:** `PUBG` · `CS2` · `Black Myth: Wukong`
-
-**Movies:** `Interstellar` · `The Martian` · `Jurassic Park` · `Godzilla`
+VFX · 3D Modeling · Procedural Art
 
 ---
 
@@ -97,8 +69,6 @@ I'm especially interested in the intersection of **low-level systems and AI**.
 
 <div align="center">
 
-### `Curious → Experiment → Build → Break → Learn → Repeat`
-
-**Thanks for stopping by. 🚀**
+`Curious → Experiment → Build → Break → Learn → Repeat`
 
 </div>
