@@ -32,9 +32,20 @@ BCA student from Himachal Pradesh, India, interested in **low-level systems, AI,
 
 ## 🚀 Projects
 
-### Origin OS
+### ORIGIN OS
+A research-driven operating system project focused on understanding
+computer systems from the ground up.
 
-Research-oriented OS/kernel project built from scratch, exploring **operating systems, computer architecture, low-level programming, and AI + OS integration.**
+Current areas of development:
+- x86-64 kernel development
+- UEFI bootloader development
+- Memory management
+- CPU scheduling
+- Filesystems
+- Low-level systems programming
+- Operating-system architecture
+
+> Source code and research are currently private.
 
 ### End-to-End Number Classifier
 
