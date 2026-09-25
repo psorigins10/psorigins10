@@ -4,11 +4,9 @@
 
 BCA student from Himachal Pradesh, India, interested in **low-level systems, AI, and building things from scratch.**
 
-> **"Accept the pain or stay the same."**
-
 ---
 
-## 🛠️ Tech
+## 🛠️ Tech Stack
 
 **Languages**
 
@@ -54,21 +52,6 @@ Personal finance tracking application built with **Flutter**.
 
 **3D Art**
 
-`Blender` · `Houdini`
+`Blender` · `Houdini` . `NukeX` . `DaVinci Resolve`
 
 VFX · 3D Modeling · Procedural Art
-
----
-
-## 🌐 Connect
-
-[![Instagram](https://img.shields.io/badge/Instagram-111111?style=flat-square\&logo=instagram\&logoColor=white)](https://instagram.com/ps_origins10)
-[![Discord](https://img.shields.io/badge/Discord-111111?style=flat-square\&logo=discord\&logoColor=white)](https://discord.com/users/ps_origins10)
-
----
-
-<div align="center">
-
-`Curious → Experiment → Build → Break → Learn → Repeat`
-
-</div>
