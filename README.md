@@ -37,8 +37,9 @@ A research-driven operating system project focused on understanding
 computer systems from the ground up.
 
 Current areas of development:
-- x86-64 kernel development
+- UEFI Headers and application
 - UEFI bootloader development
+- x86-64 kernel development
 - Memory management
 - CPU scheduling
 - Filesystems
