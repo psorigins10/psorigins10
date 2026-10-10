@@ -1,8 +1,22 @@
 # Hey, I'm Parav Sharma 👋
 
-**PSOrigins · BCA Student · Builder · Experimenter**
+**PSOrigins · Systems & AI Developer**
 
-BCA student from Himachal Pradesh, India, interested in **low-level systems, AI, and building things from scratch.**
+Interested in low-level systems, artificial intelligence, and building technology from the ground up.
+
+---
+
+## 🚀 Featured Projects
+
+### ORIGIN OS
+A custom research operating system project exploring low-level systems programming and OS development.
+
+🔒 **Status:** Private
+
+### PROJECT NEUROPLASTIC
+An AI research project exploring human-inspired reasoning, adaptability, and continuous learning.
+
+🔒 **Status:** Private
 
 ---
 
@@ -10,60 +24,28 @@ BCA student from Himachal Pradesh, India, interested in **low-level systems, AI,
 
 **Languages**
 
-![C](https://img.shields.io/badge/C-111111?style=flat-square\&logo=c\&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-111111?style=flat-square\&logo=c%2B%2B\&logoColor=white)
-![Python](https://img.shields.io/badge/Python-111111?style=flat-square\&logo=python\&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-111111?style=flat-square\&logo=dart\&logoColor=white)
-![Assembly](https://img.shields.io/badge/x86--64_Assembly-111111?style=flat-square\&logo=assemblyscript\&logoColor=white)
+![C](https://img.shields.io/badge/C-111111?style=flat-square&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-111111?style=flat-square&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-111111?style=flat-square&logo=python&logoColor=white)
+![Assembly](https://img.shields.io/badge/Assembly-111111?style=flat-square&logo=assemblyscript&logoColor=white)
 
-**AI / Development**
+**Technologies**
 
-![PyTorch](https://img.shields.io/badge/PyTorch-111111?style=flat-square\&logo=pytorch\&logoColor=white)
-![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-111111?style=flat-square\&logo=scikit-learn\&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-111111?style=flat-square\&logo=fastapi\&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-111111?style=flat-square\&logo=flutter\&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-111111?style=flat-square\&logo=linux\&logoColor=white)
-
-**Systems**
-
-`Operating Systems` · `Kernel Development` · `Computer Architecture` · `x86-64`
+![Linux](https://img.shields.io/badge/Linux-111111?style=flat-square&logo=linux&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-111111?style=flat-square&logo=pytorch&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-111111?style=flat-square&logo=fastapi&logoColor=white)
 
 ---
 
-## 🚀 Projects
+## 💻 Other Projects
 
-### ORIGIN OS
-A research-driven operating system project focused on understanding
-computer systems from the ground up.
-
-Current areas of development:
-- UEFI Headers and application
-- UEFI bootloader development
-- x86-64 kernel development
-- Memory management
-- CPU scheduling
-- Filesystems
-- Low-level systems programming
-- Operating-system architecture
-
-> Source code and research are currently private.
-
-### End-to-End Number Classifier
-
-**PyTorch → FastAPI → Flutter**
-
-Digit classification system connecting an ML model, backend API, and mobile frontend.
-
-### Money Tracker
-
-Personal finance tracking application built with **Flutter**.
+- **End-to-End Number Classifier** — ML model with a FastAPI backend and Flutter frontend.
+- **Money Tracker** — Personal finance application built with Flutter.
 
 ---
 
-## 🎨 Hobbies
+## 🎨 Beyond Code
 
-**3D Art**
+3D Art · VFX · Procedural Modeling
 
-`Blender` · `Houdini` . `NukeX` . `DaVinci Resolve`
-
-VFX · 3D Modeling · Procedural Art
+Blender · Houdini · NukeX · DaVinci Resolve
