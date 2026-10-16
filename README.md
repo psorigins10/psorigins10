@@ -11,7 +11,7 @@ Interested in low-level systems, artificial intelligence, and building technolog
 ### ORIGIN OS
 A custom research operating system project exploring low-level systems programming and OS development.
 
-🔒 **Status:** Private
+🔒 **Status:** Public
 
 ### PROJECT NEUROPLASTIC
 An AI research project exploring human-inspired reasoning, adaptability, and continuous learning.
