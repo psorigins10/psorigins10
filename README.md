@@ -18,8 +18,8 @@ An AI research project exploring human-inspired reasoning, adaptability, and con
 
 🔒 **Status:** Private
 
-### ORIGIN Language
-A programming language built for ORIGIN OS, designed to create native programs for the operating system.
+### ORIGIN Helper
+A modern laptop hardware management utility.
 
 🔓 **Status:** Public
 
